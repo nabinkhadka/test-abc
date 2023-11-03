@@ -1,0 +1,6 @@
+artifacts:
+  mymodel:
+    path: models/mymodel.pkl
+    type: model
+    labels:
+    - coolmodel
