@@ -18,6 +18,9 @@ artifacts:
     - segmentation
     - satellite-images
     - shufflenet_v2_x2_0
+  mymodel:
+    path: models/mymodel.pkl
+    type: model
 stages:
   data_split:
     cmd: python src/data_split.py
