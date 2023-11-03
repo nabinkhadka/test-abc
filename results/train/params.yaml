@@ -1,5 +1,5 @@
 train_arch: shufflenet_v2_x2_0
-epochs: 8
+epochs: 2
 base_lr: 0.01
 model: DynamicUnet
 batch_size: 8
